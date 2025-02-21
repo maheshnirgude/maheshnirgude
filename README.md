@@ -1,4 +1,4 @@
-# 💻 Hey there! I'm [mahesh nirgude] 👋
+# 💻 Hey there! I'm {mahesh nirgude} 👋
 
 🚀 **Aspiring Full-Stack Developer** | 🎓 IT Engineering Student | 🌐 Passionate about Web Development
 
